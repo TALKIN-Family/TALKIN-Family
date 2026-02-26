@@ -3,7 +3,7 @@
 ## Overview
 TALKIN-Family is a multimodal synthetic dataset designed for research in audio-visual kinship verification.
 
-⚠ This dataset does NOT contain real human data.
+*This dataset does NOT contain real human data.
 
 ## Features
 - Multimodal (Video + Audio)
