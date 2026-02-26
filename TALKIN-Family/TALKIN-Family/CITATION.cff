@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: TALKIN-Family Synthetic Dataset
+version: 1.0
+authors:
+  - family-names: YourLastName
+    given-names: YourFirstName
+    affiliation: Your University
+date-released: 2026-01-01
+license: Academic Research Only
